@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://angelomerlo.github.io/entrejogos/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://angelomerlo.github.io/entrejogos/</loc>
+</url>
+<url>
+<loc>https://angelomerlo.github.io/entrejogos/novos-mmorpgs-de-2020-para-ficar-de-olho/</loc>
+<lastmod>2020-02-25T20:27:58-03:00</lastmod>
+<image:image>
+<image:loc>https://angelomerlo.github.io/entrejogos/media\posts\6/new-world.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://angelomerlo.github.io/entrejogos/patreon/</loc>
+<lastmod>2020-02-25T20:05:57-03:00</lastmod>
+<image:image>
+<image:loc>https://angelomerlo.github.io/entrejogos/media\posts\5/Patreon-header-PS.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
