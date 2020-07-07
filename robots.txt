@@ -1,0 +1,22 @@
+User-Agent: Vegi bot
+Disallow: /
+
+User-Agent: Scrapy
+Disallow: /
+
+User-Agent: Xenu
+Disallow: /
+
+User-Agent: Xenu Link Sleuth/1.3.8
+Disallow: /
+
+User-agent: AhrefsBot 
+Disallow: /
+
+User-agent: *
+Allow: /
+
+User-Agent: Googlebot
+Allow: /
+
+Sitemap: https://www.entrejogos.com.br/sitemap.xml
