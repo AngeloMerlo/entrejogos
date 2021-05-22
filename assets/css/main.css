@@ -2542,6 +2542,12 @@ textarea {
   margin-top: 1.9428571429rem;
   padding-top: 1.9428571429rem;
 }
+p.donation{
+  color: #888;
+  font-size: 14px;
+  text-align: center;
+  margin-top: 5px;
+}
 
 .search__form {
   margin-top: 1.7rem;
