@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "EntreJogos",
+    "description": "",
+    "home_page_url": "https://www.entrejogos.com.br",
+    "feed_url": "https://www.entrejogos.com.br/feed.json",
+    "user_comment": "",
+    "icon": "https://www.entrejogos.com.br/media/website/logo-entrejogos.png",
+    "author": {
+        "name": "Angelo"
+    },
+    "items": [
+    ]
+}
