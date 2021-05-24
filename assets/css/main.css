@@ -2548,6 +2548,9 @@ p.donation{
   text-align: center;
   margin-top: 5px;
 }
+footer nav{
+  margin-left: auto !important;
+}
 
 .search__form {
   margin-top: 1.7rem;
