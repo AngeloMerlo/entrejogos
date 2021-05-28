@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://www.entrejogos.com.br/confira-o-gameplay-de-horizon-forbidden-west/",
+            "url": "https://www.entrejogos.com.br/confira-o-gameplay-de-horizon-forbidden-west/",
+            "title": "Confira o gameplay de Horizon Forbidden West",
+            "summary": "A Sony realizou na tarde de ontem mais um State of Play e o foco do evento foi o game Horizon Forbidden West, que ganhou um gameplay de aproximadamente quinze minutos. No vídeo é possível observar uma nova facção que usam os robôs como armas,&hellip;",
+            "content_html": "<p>A Sony realizou na tarde de ontem mais um State of Play e o foco do evento foi o game Horizon Forbidden West, que ganhou um gameplay de aproximadamente quinze minutos.</p>\n<p>No vídeo é possível observar uma nova facção que usam os robôs como armas, além de novas criaturas, armas, inimigos e a jogabilidade embaixo da água. Também é possível observar a movimentação bem similar ao jogo anterior. Confira o gameplay abaixo:</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"100%\" src=\"https://www.youtube.com/embed/wQATS4HOxdo\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p>O jogo ainda não tem uma data final para o lançamento, mas a Guerilla Games, desenvolvedora do jogo, afirma que o título será lançado ainda este ano exclusivamente para Playstation 4 e Playstation 5.</p>",
+            "image": "https://www.entrejogos.com.br/media/posts/15/horizon-forbidden-west.jpg",
+            "author": {
+                "name": "Angelo"
+            },
+            "tags": [
+                   "Playstation",
+                   "Notícias"
+            ],
+            "date_published": "2021-05-28T08:37:14-03:00",
+            "date_modified": "2021-05-28T08:37:14-03:00"
+        },
+        {
             "id": "https://www.entrejogos.com.br/among-us-gratuito-na-epic-store/",
             "url": "https://www.entrejogos.com.br/among-us-gratuito-na-epic-store/",
             "title": "Among Us gratuito na Epic Store",
@@ -176,23 +193,6 @@
             ],
             "date_published": "2021-05-24T09:15:49-03:00",
             "date_modified": "2021-05-24T09:15:49-03:00"
-        },
-        {
-            "id": "https://www.entrejogos.com.br/dungeons-of-edera-indie-soulslike-com-elementos-de-diablo/",
-            "url": "https://www.entrejogos.com.br/dungeons-of-edera-indie-soulslike-com-elementos-de-diablo/",
-            "title": "Dungeons of Edera, indie soulslike com elementos de Diablo",
-            "summary": "A desenvolvedora Monster Tooth Studios está criando um RPG de ação promissor. O jogo está em desenvolvimento há algum tempo, Dungeons of Edera, um tipo de RPG de ação roguelite procedural com o combate de resistência e esquiva do subgênero Soulslike. O game está sendo&hellip;",
-            "content_html": "<p>A desenvolvedora Monster Tooth Studios está criando um RPG de ação promissor. O jogo está em desenvolvimento há algum tempo, Dungeons of Edera, um tipo de RPG de ação roguelite procedural com o combate de resistência e esquiva do subgênero Soulslike. O game está sendo feito na Unreal Engine.</p>\n<p>Dungeons of Edera está no Early Access na Steam desde 2020, constantemente criando novos recursos e atualizações, com muitas avaliações positivas dos usuários. É um jogo centrado em masmorras geradas proceduralmente que constituem partes de uma campanha estruturada. O jogo conta também com um sistema de loot muito forte, assim como a franquia Diablo. Além disso o game estará disponível no idioma da nossa terrinha!</p>\n<p>A Monster Tooth Studios está planejando lançar o jogo no final de 2021, quando o preço aumentará. Dungeons of Edera atualmente custa R$ 28,99 na <a href=\"https://store.steampowered.com/app/1131240/Dungeons_of_Edera/\" title=\"Steam\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Steam</a>. Confira o trailer de early access.</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"100%\" src=\"https://www.youtube.com/embed/kcgyJzUwwGA\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://www.entrejogos.com.br/media/posts/5/Dungeons-of-Edera.jpg",
-            "author": {
-                "name": "Angelo"
-            },
-            "tags": [
-                   "PC",
-                   "Notícias"
-            ],
-            "date_published": "2021-05-24T09:05:20-03:00",
-            "date_modified": "2021-05-24T09:05:20-03:00"
         }
     ]
 }
