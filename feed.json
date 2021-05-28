@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://www.entrejogos.com.br/among-us-gratuito-na-epic-store/",
+            "url": "https://www.entrejogos.com.br/among-us-gratuito-na-epic-store/",
+            "title": "Among Us gratuito na Epic Store",
+            "summary": "Among Us está gratuito por tempo limitado na Epic Store. O game foi liberado na última quinta feira e ficará disponível até ao meio dia da próxima quinta (03/06). Among Us é um jogo desenvolvido e publicado pelo estúdio de jogos estadunidense InnerSloth. Foi lançado&hellip;",
+            "content_html": "<p>Among Us está gratuito por tempo limitado na Epic Store. O game foi liberado na última quinta feira e ficará disponível até ao meio dia da próxima quinta (03/06). Among Us é um jogo desenvolvido e publicado pelo estúdio de jogos estadunidense InnerSloth. Foi lançado em 15 de junho de 2018 para Android e iOS e em 17 de agosto de 2018 para Microsoft Windows.</p>\n<p>O jogo se passa em um cenário de tema espacial, onde cada jogador desempenha um de dois papéis, sendo a maioria tripulantes e um número predeterminado sendo impostores. O objetivo dos tripulantes é identificar os impostores e/ou completar as tarefas ao redor do mapa, enquanto o objetivo dos impostores é eliminar os tripulantes. Os jogadores suspeitos são eliminados através de uma votação, que é iniciada quando uma reunião de emergência é chamada ou quando um cadáver é reportado. Os tripulantes vencem caso todos os Impostores sejam eliminados ou se todas as tarefas forem completadas. Já os impostores vencem caso estejam em número igualitário ao dos tripulantes, ou caso uma sabotagem crítica não seja resolvida.</p>\n<p>Para resgatar o jogo basta acessar a loja da <a href=\"https://www.epicgames.com/store/pt-BR/p/among-us\" title=\"Epic Games\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Epic Games</a> através do link.</p>",
+            "image": "https://www.entrejogos.com.br/media/posts/14/among-us.jpg",
+            "author": {
+                "name": "Angelo"
+            },
+            "tags": [
+                   "PC",
+                   "Notícias"
+            ],
+            "date_published": "2021-05-28T08:24:42-03:00",
+            "date_modified": "2021-05-28T08:24:42-03:00"
+        },
+        {
             "id": "https://www.entrejogos.com.br/sony-lancara-uncharted-4-para-pc/",
             "url": "https://www.entrejogos.com.br/sony-lancara-uncharted-4-para-pc/",
             "title": "Sony lancará Uncharted 4 para PC",
@@ -176,23 +193,6 @@
             ],
             "date_published": "2021-05-24T09:05:20-03:00",
             "date_modified": "2021-05-24T09:05:20-03:00"
-        },
-        {
-            "id": "https://www.entrejogos.com.br/jogo-gratis-nba-2k21-gratuito-na-epic-store/",
-            "url": "https://www.entrejogos.com.br/jogo-gratis-nba-2k21-gratuito-na-epic-store/",
-            "title": "Jogo grátis: NBA 2K21 gratuito na Epic Store",
-            "summary": "Quem acompanha o mundo dos games já está acostumado a Epic Store distribuindo jogos de graça toda quinta-feira para computador. E dessa vez um jogaço foi liberado, NBA 2K21, o último game da franquia de basquete mais famosa. Lembrando que o jogo fica gratuito apenas&hellip;",
-            "content_html": "<p>Quem acompanha o mundo dos games já está acostumado a Epic Store distribuindo jogos de graça toda quinta-feira para computador. E dessa vez um jogaço foi liberado, NBA 2K21, o último game da franquia de basquete mais famosa.</p>\n<p>Lembrando que o jogo fica gratuito apenas até dia 27/05/2021 às 12:00 na loja da Epic. Corre lá e pega, confira o trailer do game.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/Ib5ygUYjHZI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p> </p>\n<p> </p>",
-            "image": "https://www.entrejogos.com.br/media/posts/4/nba2k21.jpg",
-            "author": {
-                "name": "Angelo"
-            },
-            "tags": [
-                   "PC",
-                   "Notícias"
-            ],
-            "date_published": "2021-05-22T10:24:50-03:00",
-            "date_modified": "2021-05-22T10:26:04-03:00"
         }
     ]
 }
