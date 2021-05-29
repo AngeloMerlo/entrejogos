@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://www.entrejogos.com.br/far-cry-6-ganha-trailer-e-data-de-lancamento/",
+            "url": "https://www.entrejogos.com.br/far-cry-6-ganha-trailer-e-data-de-lancamento/",
+            "title": "Far Cry 6 ganha trailer e data de lançamento",
+            "summary": "Ontem foi um dia repleto de notícias sobre Far Cry 6, a Ubisoft revelou um pouco de gameplay em dois trailers. Os dois trailers inéditos do jogo mostra ainda a data de lançamento do jogo. Os dois vídeos do game mostram jogabilidade fora e dentro&hellip;",
+            "content_html": "<p>Ontem foi um dia repleto de notícias sobre Far Cry 6, a Ubisoft revelou um pouco de gameplay em dois trailers. Os dois trailers inéditos do jogo mostra ainda a data de lançamento do jogo.</p>\n<p>Os dois vídeos do game mostram jogabilidade fora e dentro da água, muito tiroteio e data de lançamento para dia 7 de outubro desse ano! Vamos ver os trailers:</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"100%\" src=\"https://www.youtube.com/embed/YFMLi8ekeTE\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"100%\" src=\"https://www.youtube.com/embed/ILHFhLjIXpY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p>Far Cry 6 será lançado para PC, Playstation 4, Playstation 5, Xbox Series S|X, Xbox One e Google Stadia. Lembrando que a Ubisoft já havia confirmado que no PS5 e no Series X o jogo rodará em resolução 4k e 60 fps.</p>",
+            "image": "https://www.entrejogos.com.br/media/posts/16/far-cry-6.jpg",
+            "author": {
+                "name": "Angelo"
+            },
+            "tags": [
+                   "Xbox",
+                   "Playstation",
+                   "PC",
+                   "Notícias"
+            ],
+            "date_published": "2021-05-29T08:30:01-03:00",
+            "date_modified": "2021-05-29T08:30:53-03:00"
+        },
+        {
             "id": "https://www.entrejogos.com.br/confira-o-gameplay-de-horizon-forbidden-west/",
             "url": "https://www.entrejogos.com.br/confira-o-gameplay-de-horizon-forbidden-west/",
             "title": "Confira o gameplay de Horizon Forbidden West",
@@ -176,23 +195,6 @@
             ],
             "date_published": "2021-05-24T11:40:48-03:00",
             "date_modified": "2021-05-24T11:40:48-03:00"
-        },
-        {
-            "id": "https://www.entrejogos.com.br/metro-exodus-passa-a-ter-suporte-ao-dualsense-no-pc/",
-            "url": "https://www.entrejogos.com.br/metro-exodus-passa-a-ter-suporte-ao-dualsense-no-pc/",
-            "title": "Metro Exodus passa a ter suporte ao DualSense no PC",
-            "summary": "Agora você pode usar seu controle DualSense no PC de forma muito mais completa do que antes, graças aos desenvolvedores do Metro Exodus. O controle do PS5 tem funcionado no Steam por alguns meses, mas as funções táteis do controle não é prioridade de muitos&hellip;",
-            "content_html": "<p>Agora você pode usar seu controle DualSense no PC de forma muito mais completa do que antes, graças aos desenvolvedores do Metro Exodus. O controle do PS5 tem funcionado no Steam por alguns meses, mas as funções táteis do controle não é prioridade de muitos desenvolvedores, já que o número de jogadores no PC que usam DualSense ainda é muito baixo.</p>\n<p>Mas depois de um hotfix recente, os haptics estão ativados para jogadores de Metro, com feedback completo e gatilhos adaptáveis ​​do DualSense. Não está claro se Metro Exodus é o primeiro jogo para PC a colocar os haptics do controle PS5 em funcionamento, mas é certamente o primeiro jogo de alto perfil a fazer isso.</p>",
-            "image": "https://www.entrejogos.com.br/media/posts/6/metro-exodus.png",
-            "author": {
-                "name": "Angelo"
-            },
-            "tags": [
-                   "PC",
-                   "Notícias"
-            ],
-            "date_published": "2021-05-24T09:15:49-03:00",
-            "date_modified": "2021-05-24T09:15:49-03:00"
         }
     ]
 }
